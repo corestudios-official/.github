@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://corestudios.web.app/core_transparent_logo/core.-removebg-preview.png" alt="core. studios" width="80" />
+<img src="core-nobg.png" alt="core. studios" width="80" />
 
 # core. studios
 
 **engineered from zero.**
 
-We're an independent hardware and software studio based in Malaysia.
+We're building **[Cove](https://github.com/corestudios-official/cove)**.
 
-We're building **[Cove](https://github.com/corestudios-official/cove)** — a minimal, calm browser for Windows.
+Cove is a minimal, calm browser for Windows — free and open source.
 
 [Website](https://corestudios.web.app)
 
