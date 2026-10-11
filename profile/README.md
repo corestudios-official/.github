@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="core-nobg.png" alt="core. studios" width="80" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="core.lightWEBLOGOnobg.png">
+  <source media="(prefers-color-scheme: light)" srcset="coreWEBLOGO-nobg.png">
+  <img src="coreWEBLOGO-nobg.png" alt="core. studios" width="80" />
+</picture>
 
 <h1>core. studios</h1>
 
