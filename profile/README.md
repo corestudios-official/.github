@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="core.lightWEBLOGOnobg.png">
   <source media="(prefers-color-scheme: light)" srcset="coreWEBLOGO-nobg.png">
-  <img src="coreWEBLOGO-nobg.png" alt="core. studios" width="240" />
+  <img src="coreWEBLOGO-nobg.png" alt="core. studios" width="320" />
 </picture>
 
 <h1>core. studios</h1>
