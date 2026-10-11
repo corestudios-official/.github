@@ -3,8 +3,8 @@
 <img src="core-nobg.png" alt="core. studios" width="80" />
 
 # core. studios
-
-**engineered from zero.**
+<br>
+engineered from zero.
 
 We're building **[Cove](https://github.com/corestudios-official/cove)**.
 
