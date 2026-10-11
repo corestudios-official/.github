@@ -2,7 +2,7 @@
 
 <img src="core-nobg.png" alt="core. studios" width="80" />
 
-<h1>core. studios</h1>
+<p><strong style="font-size:2em;">core. studios</strong></p>
 <p>engineered from zero.</p>
 
 <p>We're building <strong><a href="https://github.com/corestudios-official/cove">Cove</a></strong>.</p>
