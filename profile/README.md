@@ -2,14 +2,12 @@
 
 <img src="core-nobg.png" alt="core. studios" width="80" />
 
-# core. studios
-<br>
-engineered from zero.
+<h1>core. studios</h1>
+<p>engineered from zero.</p>
 
-We're building **[Cove](https://github.com/corestudios-official/cove)**.
+<p>We're building <strong><a href="https://github.com/corestudios-official/cove">Cove</a></strong>.</p>
+<p>Cove is a minimal, calm browser for Windows — free and open source.</p>
 
-Cove is a minimal, calm browser for Windows — free and open source.
-
-[Website](https://corestudios.web.app)
+<p><a href="https://corestudios.web.app">Website</a></p>
 
 </div>
