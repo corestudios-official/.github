@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="coreRounded.svg" alt="core. studios" width="80" />
+  <img src="coreRounded.svg" alt="core. studios" width="160" />
 </picture>
 
 <h1>core. studios</h1>
