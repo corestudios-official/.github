@@ -1,9 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="core.lightWEBLOGOnobg.png">
-  <source media="(prefers-color-scheme: light)" srcset="coreWEBLOGO-nobg.png">
-  <img src="coreWEBLOGO-nobg.png" alt="core. studios" width="320" />
+  <img src="coreRounded.svg" alt="core. studios" />
 </picture>
 
 <h1>core. studios</h1>
